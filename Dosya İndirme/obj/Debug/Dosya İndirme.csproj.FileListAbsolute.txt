@@ -1,0 +1,11 @@
+D:\Programlar\C# Projeler\Paradox Dosya İndirici\Dosya İndirme\obj\Debug\Dosya İndirme.exe
+D:\Programlar\C# Projeler\Paradox Dosya İndirici\Dosya İndirme\obj\Debug\Dosya İndirme.pdb
+D:\Programlar\Projeler\Paradox Dosya İndirici\Dosya İndirme\obj\Debug\Dosya İndirme.exe
+D:\Programlar\Projeler\Paradox Dosya İndirici\Dosya İndirme\obj\Debug\Dosya İndirme.pdb
+D:\Programlar\Projeler\Paradox Dosya İndirici\Dosya İndirme\bin\Debug\Dosya İndirme.exe
+D:\Programlar\Projeler\Paradox Dosya İndirici\Dosya İndirme\bin\Debug\Dosya İndirme.pdb
+D:\Programlar\Projeler\Paradox Dosya İndirici\Dosya İndirme\obj\Debug\Dosya_İndirme.Form1.resources
+D:\Programlar\Projeler\Paradox Dosya İndirici\Dosya İndirme\obj\Debug\Dosya_İndirme.Properties.Resources.resources
+D:\Programlar\Projeler\Paradox Dosya İndirici\Dosya İndirme\obj\Debug\Dosya İndirme.csproj.GenerateResource.Cache
+F:\Programlar\Projeler\Paradox Dosya İndirici\Dosya İndirme\obj\Debug\Dosya İndirme.exe
+F:\Programlar\Projeler\Paradox Dosya İndirici\Dosya İndirme\obj\Debug\Dosya İndirme.pdb

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Dosya İndirme">
+</Property><Property Name="Solution File" Value="D:\Programlar\C# Projeler\Paradox Dosya İndirici\Dosya İndirme.sln">
+</Property><Property Name="User Options File" Value="D:\Programlar\C# Projeler\Paradox Dosya İndirici\Dosya İndirme.suo">
+</Property><Property Name="Date" Value="19 Temmuz 2012 Perşembe">
+</Property><Property Name="Time" Value="23:34">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="Dosya İndirme.sln" Description="File successfully backed up as D:\Programlar\C# Projeler\Paradox Dosya İndirici\Backup\Dosya İndirme.sln">
+</Event><Event ErrorLevel="0" Project="" Source="Dosya İndirme.suo" Description="File successfully backed up as D:\Programlar\C# Projeler\Paradox Dosya İndirici\Backup\Dosya İndirme.suo">
+</Event><Event ErrorLevel="0" Project="Dosya İndirme" Source="Dosya İndirme\Dosya İndirme.csproj" Description="Project file successfully backed up as D:\Programlar\C# Projeler\Paradox Dosya İndirici\Backup\Dosya İndirme\Dosya İndirme.csproj">
+</Event><Event ErrorLevel="0" Project="Dosya İndirme" Source="Dosya İndirme\Form1.cs" Description="File successfully backed up as D:\Programlar\C# Projeler\Paradox Dosya İndirici\Backup\Dosya İndirme\Form1.cs">
+</Event><Event ErrorLevel="0" Project="Dosya İndirme" Source="Dosya İndirme\Form1.Designer.cs" Description="File successfully backed up as D:\Programlar\C# Projeler\Paradox Dosya İndirici\Backup\Dosya İndirme\Form1.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Dosya İndirme" Source="Dosya İndirme\Program.cs" Description="File successfully backed up as D:\Programlar\C# Projeler\Paradox Dosya İndirici\Backup\Dosya İndirme\Program.cs">
+</Event><Event ErrorLevel="0" Project="Dosya İndirme" Source="Dosya İndirme\Properties\AssemblyInfo.cs" Description="File successfully backed up as D:\Programlar\C# Projeler\Paradox Dosya İndirici\Backup\Dosya İndirme\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Dosya İndirme" Source="Dosya İndirme\Properties\Resources.Designer.cs" Description="File successfully backed up as D:\Programlar\C# Projeler\Paradox Dosya İndirici\Backup\Dosya İndirme\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Dosya İndirme" Source="Dosya İndirme\Properties\Settings.Designer.cs" Description="File successfully backed up as D:\Programlar\C# Projeler\Paradox Dosya İndirici\Backup\Dosya İndirme\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Dosya İndirme" Source="Dosya İndirme\Properties\Settings.settings" Description="File successfully backed up as D:\Programlar\C# Projeler\Paradox Dosya İndirici\Backup\Dosya İndirme\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="Dosya İndirme" Source="Dosya İndirme\Resources\background.jpg" Description="File successfully backed up as D:\Programlar\C# Projeler\Paradox Dosya İndirici\Backup\Dosya İndirme\Resources\background.jpg">
+</Event><Event ErrorLevel="0" Project="Dosya İndirme" Source="Dosya İndirme\Form1.resx" Description="File successfully backed up as D:\Programlar\C# Projeler\Paradox Dosya İndirici\Backup\Dosya İndirme\Form1.resx">
+</Event><Event ErrorLevel="0" Project="Dosya İndirme" Source="Dosya İndirme\Properties\Resources.resx" Description="File successfully backed up as D:\Programlar\C# Projeler\Paradox Dosya İndirici\Backup\Dosya İndirme\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="Dosya İndirme" Source="Dosya İndirme\Dosya İndirme.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Dosya İndirme" Source="Dosya İndirme\Dosya İndirme.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Dosya İndirme.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="Dosya İndirme.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Dosya İndirme" Source="Dosya İndirme\Dosya İndirme.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

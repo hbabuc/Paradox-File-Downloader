@@ -1,0 +1,16 @@
+C:\Users\KAT4\Documents\Visual Studio 2005\Projects\Dosya İndirme\Dosya İndirme\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\KAT4\Documents\Visual Studio 2005\Projects\Dosya İndirme\Dosya İndirme\obj\Debug\Dosya_İndirme.Form1.resources
+C:\Users\KAT4\Documents\Visual Studio 2005\Projects\Dosya İndirme\Dosya İndirme\obj\Debug\Dosya_İndirme.Properties.Resources.resources
+C:\Users\KAT4\Documents\Visual Studio 2005\Projects\Dosya İndirme\Dosya İndirme\obj\Debug\Dosya İndirme.csproj.GenerateResource.Cache
+C:\Users\KAT4\Documents\Visual Studio 2005\Projects\Dosya İndirme\Dosya İndirme\bin\Debug\Dosya İndirme.exe
+C:\Users\KAT4\Documents\Visual Studio 2005\Projects\Dosya İndirme\Dosya İndirme\bin\Debug\Dosya İndirme.pdb
+C:\Users\KAT4\Documents\Visual Studio 2005\Projects\Dosya İndirme\Dosya İndirme\obj\Debug\Dosya İndirme.exe
+C:\Users\KAT4\Documents\Visual Studio 2005\Projects\Dosya İndirme\Dosya İndirme\obj\Debug\Dosya İndirme.pdb
+E:\Hüseyin\Paradox Dosya İndirici\Dosya İndirme\obj\Debug\Dosya İndirme.exe
+E:\Hüseyin\Paradox Dosya İndirici\Dosya İndirme\obj\Debug\Dosya İndirme.pdb
+E:\Hüseyin\Paradox Dosya İndirici\Dosya İndirme\bin\Debug\Dosya İndirme.exe
+E:\Hüseyin\Paradox Dosya İndirici\Dosya İndirme\bin\Debug\Dosya İndirme.pdb
+E:\Hüseyin\Paradox Dosya İndirici\Dosya İndirme\obj\Debug\ResolveAssemblyReference.cache
+E:\Hüseyin\Paradox Dosya İndirici\Dosya İndirme\obj\Debug\Dosya_İndirme.Form1.resources
+E:\Hüseyin\Paradox Dosya İndirici\Dosya İndirme\obj\Debug\Dosya_İndirme.Properties.Resources.resources
+E:\Hüseyin\Paradox Dosya İndirici\Dosya İndirme\obj\Debug\Dosya İndirme.csproj.GenerateResource.Cache
